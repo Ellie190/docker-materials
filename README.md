@@ -25,4 +25,4 @@ A collection of materials for learning and using Docker. Materials - tutorials, 
 
 # Docker in AWS
 ## Videos 
-- [How to Push Docker Images into AWS ECR( Elastic Container Registry)](https://www.youtube.com/watch?v=t0TXPCwcg3I)
+- [How to Push Docker Images into AWS ECR (Elastic Container Registry)](https://www.youtube.com/watch?v=t0TXPCwcg3I)
