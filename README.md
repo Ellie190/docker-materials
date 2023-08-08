@@ -5,6 +5,9 @@ A collection of materials for learning and using Docker. Materials - tutorials, 
 ## Documentation
 - [Docker Docs](https://docs.docker.com/)
 
+## Videos
+- [How to Install Docker on Windows 10 / Windows 11](https://www.youtube.com/watch?v=4xK-zaCRiPQ)
+
 ## Blogs
 - [10 Docker Commands for 90% of Conteraization Tasks](https://levelup.gitconnected.com/mastering-docker-10-essential-commands-for-effective-container-management-65442ef64ad3)
 
