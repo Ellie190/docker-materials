@@ -22,3 +22,7 @@ A collection of materials for learning and using Docker. Materials - tutorials, 
 ## Blogs
 - [Docker for Data Science Projects: A Beginner-Friendly Introduction](https://levelup.gitconnected.com/docker-for-data-science-projects-a-beginner-friendly-introduction-58e523ebbacb)
 - [Industry-Wide Best Practices For Using Docker for Data Science](https://levelup.gitconnected.com/industry-wide-best-practices-for-using-docker-for-data-science-beec81137b00)
+
+# Docker in AWS
+## Videos 
+- [How to Push Docker Images into AWS ECR( Elastic Container Registry)](https://www.youtube.com/watch?v=t0TXPCwcg3I)
